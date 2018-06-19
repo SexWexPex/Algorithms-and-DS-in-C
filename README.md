@@ -1,7 +1,7 @@
 # Algorithms and DS
-Clean implementation in C
+Clean implementation of algroithms in C
 ## Implementation
-There is a list of finished implementations. I keep working on new ones.
+There is a list of finished implementations of algorithms. I keep working on new ones.
 
 ### Data Structures
 - Linked List (Vector)
@@ -25,4 +25,4 @@ There is a list of finished implementations. I keep working on new ones.
 - Jump Search
 
 ## Contribute
-I would be happy if you are leave a comment, issues, ways to improvement
+I will be happy if you leave a comment, submit several issues, or improve the algoritms
